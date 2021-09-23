@@ -3,7 +3,8 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background: linear-gradient(180deg, rgba(105, 247, 38, 0.2) 0%, rgba(230, 255, 78, 0.2) 100%), radial-gradient(50% 50% at 50% 50%, #FF7A00 0%, rgba(255, 245, 0, 0) 100%);
+  /* background-color: #f4f4f4; */
   color: #3c484e;
   font-family: 'Open Sans', sans-serif;
 }
